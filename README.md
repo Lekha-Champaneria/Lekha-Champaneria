@@ -7,7 +7,7 @@
   <p>
     I'm Lekha, an AI/ML developer specializing in Natural Language Processing (NLP). I've developed several projects in recommendation and prediction, and currently, I'm focusing on Generative AI.
   </p>
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" alt="Developer GIF" width="300">
+  <img src="[https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)" alt="Developer GIF" width="300">
 </div>
 
 ---
