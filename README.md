@@ -7,14 +7,14 @@
   <p>
     I'm Lekha, an AI/ML developer specializing in Natural Language Processing (NLP). I've developed several projects in recommendation and prediction, and currently, I'm focusing on Generative AI.
   </p>
-  <img src="[https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)" alt="Developer GIF" width="300">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Developer GIF" width="300">
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently exploring **Generative AI** and advanced NLP techniques.
-- 💼 Check out my projects on [GitHub](https://github.com/JinitVyas?tab=repositories).
+- 💼 Check out my projects on [GitHub](https://github.com/Lekha-Champaneria?tab=repositories).
 
 ---
 
@@ -54,5 +54,5 @@
 ---
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinitvyas&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinitvyas&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lekha-Champaneria&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekha-Champaneria&theme=tokyonight" alt="mystreak"/>
